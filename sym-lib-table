@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name breakout_boards)(type Legacy)(uri ${KIPRJMOD}/breakout_boards.lib)(options "")(descr ""))
+  (lib (name ARDUINO_PRO_MINI)(type Legacy)(uri ${KIPRJMOD}/ARDUINO_PRO_MINI/ARDUINO_PRO_MINI.lib)(options "")(descr ""))
+  (lib (name 482016514001)(type Legacy)(uri ${KIPRJMOD}/482016514001/482016514001.lib)(options "")(descr ""))
+  (lib (name HSS-B20-053H-01)(type Legacy)(uri ${KIPRJMOD}/HSS-B20-053H-01/HSS-B20-053H-01.lib)(options "")(descr ""))
+)

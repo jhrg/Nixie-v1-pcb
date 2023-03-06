@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name 482016514001)(type KiCad)(uri ${KIPRJMOD}/482016514001)(options "")(descr ""))
+  (lib (name ARDUINO_PRO_MINI)(type KiCad)(uri ${KIPRJMOD}/ARDUINO_PRO_MINI)(options "")(descr ""))
+  (lib (name breakout_boards)(type KiCad)(uri /Users/jimg/Dropbox/Nixie-v1/breakout_boards)(options "")(descr ""))
+  (lib (name HSS-B20-053H-01)(type KiCad)(uri ${KIPRJMOD}/HSS-B20-053H-01)(options "")(descr ""))
+  (lib (name Logos)(type KiCad)(uri ${KIPRJMOD}/graphics/Logos.pretty)(options "")(descr ""))
+)
